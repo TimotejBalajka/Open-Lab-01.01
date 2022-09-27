@@ -16,7 +16,6 @@ namespace Open_Lab_01._01
             {
                 return false;
             }
-            throw new NotImplementedException();
         }
     }
 }
